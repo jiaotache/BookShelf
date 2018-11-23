@@ -6,6 +6,7 @@ gem 'devise-bootstrap-views'
 gem 'devise-i18n'
 gem 'devise-i18n-views'
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'jquery-rails'
 
 ruby '2.4.1'
 
